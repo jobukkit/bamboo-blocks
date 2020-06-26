@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "bamboo_blocks:bamboo_chest",
+    "bamboo_blocks:bamboo_trapped_chest"
+  ]
+}
