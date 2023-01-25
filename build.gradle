@@ -66,7 +66,7 @@ repositories {
 }
 
 dependencies {
-    minecraft 'net.minecraftforge:forge:1.15.2-31.1.57'
+    minecraft 'net.minecraftforge:forge:1.15.2-31.2.57'
     implementation fg.deobf("com.teamabnormals.abnormals_core:abnormals-core:1.15.2-1.0.6")
 }
 
